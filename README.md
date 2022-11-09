@@ -1,1 +1,1 @@
-# Hi-Lo-Python
+# Hi-Lo Python game
